@@ -1,2 +1,2 @@
-# CulVer
-Cultural Verse-Prehistory Path
+# Team CulVer
+Cultural Verse-Prehistoric Path
